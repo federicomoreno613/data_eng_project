@@ -1,0 +1,12 @@
+*.csv
+/data/
+*.pq
+*.parquet
+#ignore python cache
+__pycache__/
+#ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+#ignore .DS_Store
+.DS_Store
+.gcp/
+token.json
